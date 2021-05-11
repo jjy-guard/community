@@ -60,5 +60,4 @@ public class LoginController implements ActivationState {
         model.addAllAttributes(map);
         return "/site/operate-result";
     }
-
 }
