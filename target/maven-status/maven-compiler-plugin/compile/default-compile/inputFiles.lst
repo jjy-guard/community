@@ -1,0 +1,12 @@
+D:\community\src\main\java\com\newcoder\community\util\CommonUtil.java
+D:\community\src\main\java\com\newcoder\community\util\MailClient.java
+D:\community\src\main\java\com\newcoder\community\entity\Page.java
+D:\community\src\main\java\com\newcoder\community\entity\User.java
+D:\community\src\main\java\com\newcoder\community\CommunityApplication.java
+D:\community\src\main\java\com\newcoder\community\dao\UserMapper.java
+D:\community\src\main\java\com\newcoder\community\service\DiscussPostService.java
+D:\community\src\main\java\com\newcoder\community\controller\HomeController.java
+D:\community\src\main\java\com\newcoder\community\service\UserService.java
+D:\community\src\main\java\com\newcoder\community\dao\DiscussPostMapper.java
+D:\community\src\main\java\com\newcoder\community\entity\DiscussPost.java
+D:\community\src\main\java\com\newcoder\community\controller\LoginController.java
